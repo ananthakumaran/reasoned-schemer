@@ -1,7 +1,6 @@
 (ns rs.chapter-1
   (:refer-clojure :exclude [==])
-  (:require [clojure.core.logic :refer :all]
-            [clojure.pprint :as pp]))
+  (:require [clojure.core.logic :refer :all]))
 
 (run* [x]
   (appendo '(cake)
