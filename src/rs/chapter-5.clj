@@ -1,4 +1,4 @@
-(ns rs.chapter-1
+(ns rs.chapter-5
   (:refer-clojure :exclude [==])
   (:require [clojure.core.logic :refer :all]))
 
